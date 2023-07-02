@@ -30,15 +30,15 @@ export default function About({}: Props) {
           about me
         </h4>
         <p className="text-xl">
-          I;m a highly motivated undergraduate Computer and Information Sciences
-          student with a strong foundation in front-end development. Skilled in
-          HTML, CSS, and JavaScript, with experience in creating responsive and
-          visually appealing web interfaces. Passionate about user-centric
-          design and staying updated with the latest front-end frameworks and
-          technologies. Effective communicator and collaborator, adept at
-          working in teams to deliver exceptional results. Eager to leverage my
-          technical skills and enthusiasm for front-end development to
-          contribute to innovative projects.
+          I am a highly motivated undergraduate Computer and Information
+          Sciences student with a strong foundation in front-end development.
+          Skilled in HTML, CSS, and JavaScript, with experience in creating
+          responsive and visually appealing web interfaces. Passionate about
+          user-centric design and staying updated with the latest front-end
+          frameworks and technologies. Effective communicator and collaborator,
+          adept at working in teams to deliver exceptional results. Eager to
+          leverage my technical skills and enthusiasm for front-end development
+          to contribute to innovative projects.
         </p>
         <p>
           <b>IONIAN UNIVERSITY</b> <br />
